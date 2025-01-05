@@ -1,7 +1,4 @@
-============================================
-= Nick's Custom Rooms - Disk 01, Version 2 =
-=== By Nick, AKA NIQNick, AKA BulletNick ===
-============================================
+Nick's Custom Rooms - Disk 01, Version 2
 
 Credits and Links:
 
