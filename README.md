@@ -2,6 +2,7 @@ Nick's Custom Rooms - Disk 01, Version 2
 ========================================
 
 Credits and Links:
+------------------
 
 Made for Star of Providence:
 https://store.steampowered.com/app/603960/Star_of_Providence/
@@ -13,16 +14,17 @@ Made with Advanced Geomancy:
 https://snakeblock.itch.io/advanced-geomancy
 
 Advanced Geomancy made by:
-Snakeblock,Minari,RENREN,Musicano,Thierry
+Snakeblock, Minari, RENREN, Musicano, Thierry
 
 You can get in touch with me over at:
-    Discord: @niqnick
-    Bluesky: @niqnick.bsky.social
-    YouTube: @NIQNick
-    Twitch:   bulletnick
-    Steam:    bullet_nick95
+- Discord: @niqnick
+- Bluesky: @niqnick.bsky.social
+- YouTube: @NIQNick
+- Twitch:   bulletnick
+- Steam:    bullet_nick95
 
 Notes:
+------
 
 The release of Advanced Geomancy was a total
 and complete surprise to everyone who wasn't
