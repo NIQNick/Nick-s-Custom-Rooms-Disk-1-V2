@@ -1,8 +1,8 @@
 Nick's Custom Rooms - Disk 01, Version 2
 ========================================
 
-Credits and Links:
-------------------
+Credits and Links
+-----------------
 
 Made for Star of Providence:
 https://store.steampowered.com/app/603960/Star_of_Providence/
@@ -23,8 +23,8 @@ You can get in touch with me over at:
 - Twitch:   bulletnick
 - Steam:    bullet_nick95
 
-Notes:
-------
+Notes
+-----
 
 The release of Advanced Geomancy was a total
 and complete surprise to everyone who wasn't
